@@ -1,0 +1,2 @@
+{"timestamp": "2023-10-05 11:36:05.265680", "translation_id": "random_test_id", "source_language": "en", "target_language": "fr", "client_name": "taxi-eats", "event_name": "translation_delivered", "nr_words": 100, "duration": 78}
+{"timestamp": "2023-10-05 11:46:05.265680", "translation_id": "random_test_id", "source_language": "en", "target_language": "fr", "client_name": "taxi-eats", "event_name": "translation_delivered", "nr_words": 100, "duration": 12}
